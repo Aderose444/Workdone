@@ -1,0 +1,61 @@
+body{
+    background-color: blueviolet;
+}
+.logo img{
+width: 60px;
+}
+.logo{
+    text-align: center;
+}
+.logo-text{
+    color: white;
+}
+.user{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+}
+.user img{
+    width: 20px;
+}
+.user-text{
+    color: white;
+}
+.pass{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+}
+.pass img{
+    width: 20px;
+}
+.pass-text{
+    color: white;
+}
+.remember{
+    display: flex;
+    gap: 10px;
+    margin: 10px;
+}
+.remember img{
+    width: 20px;
+}
+.remember-text{
+    color: white;
+}
+.login{
+text-align: center;
+}
+button{
+    border-radius: 20px;
+    align-items: center;
+    padding: 15px;
+    border: 20px;
+    text-align: center;
+    width: 120px;
+}
+
+.forget{
+    text-align: center;
+    color: white;
+}
